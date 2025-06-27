@@ -1,0 +1,22 @@
+.parent-div{
+background-color: rgb(58, 133, 198)
+}
+
+.parent-div2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.child-1{
+    color: red;
+    background-color: rebeccapurple;
+}
+
+.child-2{
+    color: rgb(40, 131, 151);
+    background-color: rgb(189, 179, 200);
+    padding: 20px;
+    height: 300px;
+}
